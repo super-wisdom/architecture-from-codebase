@@ -32,8 +32,8 @@ Distinctives: self-contained annotated-SVG HTML, per-section source provenance, 
 Via a plugin marketplace (once published to your marketplace):
 
 ```bash
-claude plugin marketplace add YOUR_HANDLE/architecture-from-codebase
-claude plugin install architecture-from-codebase@YOUR_MARKETPLACE
+claude plugin marketplace add super-wisdom/architecture-from-codebase
+claude plugin install architecture-from-codebase@architecture-from-codebase
 ```
 
 Or drop the skill straight into a project: copy `skills/architecture-from-codebase/` into your `.claude/skills/` (or your plugin's `skills/`).

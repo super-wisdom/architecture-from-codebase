@@ -1,0 +1,12 @@
+{
+  "name": "architecture-from-codebase",
+  "owner": { "name": "Abhijith K", "url": "https://github.com/super-wisdom" },
+  "plugins": [
+    {
+      "name": "architecture-from-codebase",
+      "description": "Reverse-engineer any codebase into a self-contained HTML architecture reference with annotated diagrams, source links, and observed-vs-inferred provenance.",
+      "category": "engineering",
+      "source": "."
+    }
+  ]
+}

@@ -3,3 +3,5 @@ svgs/
 skills/**/scripts/svgs/
 __pycache__/
 *.pyc
+
+.DS_Store

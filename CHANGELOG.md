@@ -16,4 +16,4 @@ All notable changes to this plugin are documented here. The format is based on
 - **Sample diagrams** under `examples/images/` (annotated sequence diagram, layered map).
 - `README.md` (positioning + install + usage), `LICENSE` (MIT), and `.gitignore`.
 
-[0.1.0]: https://github.com/YOUR_HANDLE/architecture-from-codebase/releases/tag/v0.1.0
+[0.1.0]: https://github.com/super-wisdom/architecture-from-codebase/releases/tag/v0.1.0
