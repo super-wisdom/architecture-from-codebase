@@ -1,0 +1,9 @@
+{
+  "name": "architecture-from-codebase",
+  "version": "0.1.0",
+  "description": "Reverse-engineer any codebase into a polished, self-contained HTML architecture reference — annotated SVG diagrams (sequence, block, ER, flow), a navigable table of contents, per-section source links, and honest observed-vs-inferred provenance. Turns days of code archaeology into one shareable, source-traceable artifact.",
+  "author": { "name": "Abhijith K", "url": "https://github.com/super-wisdom" },
+  "license": "MIT",
+  "homepage": "https://github.com/super-wisdom/architecture-from-codebase",
+  "keywords": ["architecture", "documentation", "reverse-engineering", "onboarding", "diagrams", "codebase", "engineering", "design-doc"]
+}

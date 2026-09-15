@@ -1,0 +1,5 @@
+# diagram QA scratch output — not the committed samples under examples/
+svgs/
+skills/**/scripts/svgs/
+__pycache__/
+*.pyc
